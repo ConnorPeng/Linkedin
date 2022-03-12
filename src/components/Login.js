@@ -28,5 +28,6 @@ const Nav = style.nav`
       @media (max-width: 768px) {
           padding: 0 5px;
       }
-  }`;
+  }
+  `;
 export default Login;
